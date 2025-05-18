@@ -3,7 +3,7 @@
 **NuroBuckle** is a neuro-aware safety platform designed to combat one of the deadliest and costliest problems in the trucking industry: driver fatigue. Leveraging real-time EEG monitoring and intelligent intervention through the Model Context Protocol (MCP), NuroBuckle helps keep drivers safe, alert, and on the road—sustainably.
 
 ---
-
+![Nurobuckle](https://assets.api.uizard.io/api/cdn/stream/22ee3df7-0d34-40d7-a80c-d38d47b742b0.png)
 ## 🚨 Problem
 
 Driver fatigue is a critical safety risk:
