@@ -11,3 +11,4 @@ Temp/
 unity/*.userprefs
 unity/*.unityproj
 *build-*
+.env
