@@ -84,4 +84,4 @@ Driver fatigue is a critical safety risk:
 git clone https://github.com/your-org/nurobuckle.git
 cd nurobuckle
 pip install -r requirements.txt
-python app.py
+streamlit run app.py
